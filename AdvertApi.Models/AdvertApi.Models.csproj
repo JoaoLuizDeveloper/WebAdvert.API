@@ -1,7 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>JuninhoDRZDev</Authors>
+    <Product>WebAWS Microservices</Product>
+    <RepositoryUrl>https://github.com/JoaoLuizDeveloper/WebAdvert.API</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/JoaoLuizDeveloper/WebAdvert.API</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
