@@ -17,6 +17,7 @@ Entity Framework Core
 Clone the repository:
 
 git clone https://github.com/JoaoLuizDeveloper/WebAdvert.API.git
+<br />
 cd WebAdvert.API
 Set up the database:
 
